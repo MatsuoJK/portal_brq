@@ -1,1 +1,2 @@
-# portal_brq
+# Sistema Portal BRQ
+O portal BRQ é um sistema WEB com Springboot e sistema de login com MySQl. Ao iniciar a página home, o sistema irá mostrar algumas iformações sobre a BRQ, podendo acessar o site oficial pelo botão no início da página, terá algumas informações de reconhecimento sobre a empresa e no rodapé da página terá as redes sociais da empresa. O usuário terá que fazer login para poder acessar o sistema da empresa, clicando na aba "Login" no começo da página, após o usuário logar, ele será redirecionado na página index do usuário mostrando que ele está logado no sistema.
